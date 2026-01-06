@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sagor</h1>
+<h3 align="center">Backend & Full-Stack Developer | System-Focused Engineer</h3>
 
-<!--
-**0xsagor/0xsagor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔹 Passionate about building **scalable backend systems**
+- 🔹 Focused on **REST APIs, Authentication, Security & System Design**
+- 🔹 Love working with **clean architecture & best practices**
+- 🔹 Always learning advanced backend & automation concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack
+**Languages**
+- JavaScript (ES6+)
+- TypeScript
+- Python
+
+**Backend**
+- Node.js
+- Express.js
+- REST API
+- JWT / OAuth2
+- WebSockets
+
+**Database**
+- MongoDB
+- PostgreSQL
+- Redis
+
+**Tools & DevOps**
+- Git & GitHub
+- Docker (basic)
+- Linux
+- Postman
+
+---
+
+### 🚀 Featured Projects
+> Advanced systems & real-world backend projects
+
+- 🔐 **Auth System Pro** – JWT, Refresh Token, Role-Based Access  
+- 🌐 **REST API Boilerplate** – Production-ready backend structure  
+- ⚡ **Realtime Chat App** – WebSocket based system  
+- 📊 **Analytics Dashboard API** – Data-driven backend  
+- 🔎 **Search & Filter Engine** – Optimized query handling  
+
+👉 More advanced repositories coming soon…
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oxsgor&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oxsgor&theme=dark" />
+</p>
+
+---
+
+### 📫 Connect With Me
+- GitHub: https://github.com/Oxsgor
+
+---
+
+⭐ *Building advanced systems one repository at a time*
