@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sagor</h1>
+<h1 align="center"> Hi there 💖
+, I'm Sagor</h1>
 <h3 align="center">Backend & Full-Stack Developer | System-Focused Engineer</h3>
 
 ---
